@@ -19,6 +19,11 @@ export const Box1 = styled.div`
   }
 `;
 
+export const Registra = styled.div`
+
+display: flex;
+flex-direction: column;
+`;
 export const Box2 = styled.div`
   margin-top: 2%;
   border: none;
